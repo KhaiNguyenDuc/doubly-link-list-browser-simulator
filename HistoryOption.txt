@@ -1,0 +1,9 @@
+			 ___________________________________________________________________
+	Nhóm 05		|			      History                               |
+   Lê Nguyễn Tuấn Kiệt 	|                                                                   |
+   Nguyễn Đức Khải	|			Show history        (1)                     |
+   Nguyễn Trung Cường	|                    	Remove a history    (2)                     |
+   Lê Hoàng Minh	|	                Clear history       (3)                     |
+			|	                Visit a history     (4)                     |
+		        |                       Back                (0)                     |        						        |___________________________________________________________________|      						
+	

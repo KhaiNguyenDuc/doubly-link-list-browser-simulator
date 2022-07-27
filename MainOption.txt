@@ -1,0 +1,8 @@
+     		         ___________________________________________________________________
+	Nhóm 05		|			 Selection option                           |
+   Lê Nguyễn Tuấn Kiệt 	|                                                                   |
+   Nguyễn Đức Khải	|	                 Web         (1)                            |
+   Nguyễn Trung Cường	|	                 History     (2)                            |	
+   Lê Hoàng Minh     	|                        Change Mode (3)                            |
+                        |                        Exit        (0)                            |           	
+			|___________________________________________________________________|     
